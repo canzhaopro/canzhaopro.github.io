@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Under Review
 
-1. **C. Zhao**, L. Xie, B. Huang\*, S. Wang, and D. Ma, "Tactile-Driven Dexterous In-Hand Writing via Extrinsic Contact Sensing", submitted to RA-L, 2024. [[Website](https://inhandwriting.github.io/)]
+<!-- 1. **C. Zhao**, L. Xie, B. Huang\*, S. Wang, and D. Ma, "Tactile-Driven Dexterous In-Hand Writing via Extrinsic Contact Sensing", submitted to RA-L, 2024. [[Website](https://inhandwriting.github.io/)] -->
 
 ## Journal Papers
 
