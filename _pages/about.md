@@ -13,11 +13,12 @@ I am now pursuing the Ph.D degree in Shanghai Jiaotong University  where I am ad
 
 If you are interested in any aspect of my projects,  please email me at - *can[dot]zhxx[at]gmail[dot]com*
 
+<!-- **<font color='red'>[Highlight]</font> I am open to potential academic and industry job opportunities following my graduation in xx 202x. Please contact me if you have any leads!**<br> -->
+
+Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.edu.cn](mailto:can.zhxx@sjtu.edu.cn).
 
 
 # Education
-
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**<br>
 
 **Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) <span style="float:right;">*Sept. 2022 – Mar. 2028 (Expected)*</span>
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
@@ -34,13 +35,13 @@ If you are interested in any aspect of my projects,  please email me at - *can[d
 - Modeling and Manipulation of Deformable Objects
 - Applied Machine Learning
 
-My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.
+My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.
 
 In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
-# Publication
+<!-- # Publication
 
 - **C. Zhao**, J. Liu and D. Ma\*, "iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-based Tactile Sensors," IEEE Transactions on Robotics (**T-RO**), 2025. [doi: 10.1109/TRO.2024.3502197](doi: 10.1109/TRO.2024.3502197)
 - **C. Zhao**, J. Ren, H. Yu and D. Ma, "In-situ Mechanical Calibration for Vision-based Tactile Sensors," 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [doi: 10.1109/ICRA48891.2023.10161153](doi: 10.1109/ICRA48891.2023.10161153).
@@ -48,7 +49,7 @@ In a word, advanced technologies like robotics and  ML positively influence the 
 - **C. Zhao**, J. Ren, C. Sun, J. Liu, H. Yu and D. Ma\*, "In-situ Mechanical Calibration of Sensing Elastomers for Vision-based Tactile Sensors," submitted to IEEE Transactions on Haptics (**ToH**), currently under review.
 - D. Ma and **C. Zhao.** 基于压痕的视触觉传感器力学参数原位标定方法 (in Chinese). Application number: 2022113978708, Application date: 20221109, currently under substantive examination.
 
----
+--- -->
 
 # Award
 
