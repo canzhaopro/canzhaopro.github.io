@@ -8,39 +8,37 @@ redirect_from:
 ---
 
 Here is **Can Zhao (Vivian, 赵灿)**.
-
 I am now pursuing the Ph.D degree in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
 
-**Research Interest**
+**Research Interest**: My current research focuses on tactile perception and force sensing with their applications to robotic dexterous manipulation of various objects. In addition, I’m interested in the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply.
 - Tactile Perception & Force Sensing
 - Dexterous Robotic Manipualtion  
 - Modeling and Manipulation of Deformable Objects
 
-My current research focuses on tactile perception and force sensing with their applications to robotic dexterous manipulation of various objects. In addition, I’m interested in the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply.
-
 <!-- **<font color='red'>[Highlight]</font> I am open to potential academic and industry job opportunities following my graduation in xx 202x. Please contact me if you have any leads!**<br> -->
 
+If you are interested in my projects, please contact me.
 Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.edu.cn](mailto:can.zhxx@sjtu.edu.cn).
 
 ---
 
 # Education
 
-**Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) &emsp; _*Sept. 2022 – Mar. 2028 (Expected)*_ 
+**Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) &emsp; _Sept. 2022 – Mar. 2028 (Expected)_ 
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
 - GPA: 3.87/4.0
 
-**B.Eng. in Engineering Mechanics**, Sichuan University (Sichuan, China) &emsp; _*Sept. 2018 - Jul. 2022*_
+**B.Eng. in Engineering Mechanics**, Sichuan University (Sichuan, China) &emsp; _Sept. 2018 - Jul. 2022_
 - GPA: 3.93/4.0, Ranking: 1/40
 
 ---
 
 # Research & Teaching Experience
-**Robotics X, Tencent (Shenzhen, China)** &emsp; _06/2024 - 09/2024_  
-Advisor: Dr. Bidan Huang  
-Topic: Dexterous manipulation and Reinforcement learning
+**Robotics X, Tencent (Shenzhen, China)** &emsp; _Jul. 2024 - Sept. 2024_  
+- Advisor: Dr. Bidan Huang  
+- Topic: Dexterous manipulation and Reinforcement learning
 
-**Teaching assistant**, Theoretical Mechanics (Sophomore)&emsp; _*Sept. 2022 - Jan. 2023*_
+**Teaching assistant**, Theoretical Mechanics (Sophomore) &emsp; _Sept. 2022 - Jan. 2023_
 - Scored homework and quizzes, organized standard answers, and summarized problem-solving experiences
 - Provided students with individual Q&A sessions and detailed explanations of homework errors
 - Conducted review and exercise classes to reinforce key concepts
@@ -51,17 +49,17 @@ Topic: Dexterous manipulation and Reinforcement learning
 # Award
 
 **Honor**
-- China “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%) &emsp; _*Nov. 2023*_
-- Outstanding Graduate in Sichuan Province (Top 3%) &emsp; _*Mar. 2022*_
-- China National Undergraduate Mechanics Competition (Third Prize) &emsp; _*Aug. 2021*_
-- China National Undergraduate Mathematics Competition in Sichuan Province (First Prize) &emsp; _*Aug. 2020*_
-- Outstanding Student (Leader) at Sichuan University &emsp; _*Nov. 2019/2020/2021*_
+- China “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%) &emsp; _Nov. 2023_
+- Outstanding Graduate in Sichuan Province (Top 3%) &emsp; _Mar. 2022_
+- China National Undergraduate Mechanics Competition (Third Prize) &emsp; _Aug. 2021_
+- China National Undergraduate Mathematics Competition in Sichuan Province (First Prize) &emsp; _Aug. 2020_
+- Outstanding Student (Leader) at Sichuan University &emsp; _Nov. 2019/2020/2021_
 
 **Scholarship**
-- China Optics Valley Scholarship (Optoelectronics Information Award) &emsp; _*Nov. 2023*_
-- First Class Scholarship at Shanghai Jiao Tong University &emsp; _*Nov. 2022/2023*_
-- Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation) &emsp; _*Dec. 2021*_
-- China National Scholarship (Top 0.2%), Cheung Kong Power Scholarship &emsp; _*Dec. 2020*_
+- China Optics Valley Scholarship (Optoelectronics Information Award) &emsp; _Nov. 2023_
+- First Class Scholarship at Shanghai Jiao Tong University &emsp; _Nov. 2022/2023_
+- Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation) &emsp; _Dec. 2021_
+- China National Scholarship (Top 0.2%), Cheung Kong Power Scholarship &emsp; _Dec. 2020_
 
 ---
 
