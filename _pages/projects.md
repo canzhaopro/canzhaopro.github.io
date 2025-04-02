@@ -33,6 +33,9 @@ Dexterous in-hand manipulation involving interactions between grasped objects an
 <p align="center">
 <iframe width="640" height="240" src="../files/iFEM2_Force.mp4" title="iFEM2_Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
+<p align="center">
+<iframe width="640" height="346" src="../files/iFEM2_Force2.mp4" title="iFEM2_Force2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</p>
 
 Vision-based tactile sensors provide rich tactile information through high-resolution images, enabling the reconstruction of dense 3D contact force fields. However, accurately recovering these forces remains challenging. This article introduces the multilayer inverse finite-element method (iFEM2.0), a robust approach for reconstructing dense contact force distributions. By integrating multilayer mesh constraints and ridge regularization, iFEM2.0 enhances reconstruction robustness. A systematic analysis of framework parameters is conducted through simulation and in situ mechanical calibration. Additionally, we establish a benchmark for evaluating 3D contact force perception in terms of accuracy, fidelity, and noise resistance. Both simulation and experimental results validate the effectiveness of iFEM2.0, providing critical force information for dexterous robotic manipulation.
 
