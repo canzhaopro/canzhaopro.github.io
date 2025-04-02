@@ -22,7 +22,7 @@ repository               : "canzhaopro/canzhaopro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "canzhao1.png"
+  avatar           : "canzhao1.jpg"
   name             : "Can Zhao" 
   bio              : "There is still glory in the future."
   location         : # "Shanghai, China"
