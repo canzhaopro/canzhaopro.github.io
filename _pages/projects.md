@@ -25,7 +25,7 @@ Dexterous in-hand manipulation involving interactions between grasped objects an
 
 ## iFEM2.0: Dense 3-D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors
 
-- 10/2022 - 02/2024
+- 09/2022 - 02/2024
 - Publication: IEEE T-RO 2025 + IROS 2026
 - Manipulation Perception and Intelligence Lab, Shanghai Jiaotong University
 - Advisor: Dr. Daolin Ma
@@ -44,7 +44,7 @@ Vision-based tactile sensors provide rich tactile information through high-resol
 
 ## In-situ Mechanical Calibration for Vision-based Tactile Sensors
 
-- 03/2023 - 09/2023
+- 03/2022 - 09/2022
 - Publication: ICRA 2023
 - Manipulation Perception and Intelligence Lab, Shanghai Jiaotong University
 - Advisor: Dr. Daolin Ma
