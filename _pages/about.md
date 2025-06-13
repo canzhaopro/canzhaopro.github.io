@@ -36,7 +36,7 @@ Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.ed
 ---
 
 # Research & Teaching Experience
-**Robotics X, Tencent (Shenzhen, China)** &emsp; _Jun. 2024 - Sept. 2024_  
+**Robotics X, Tencent** (Shenzhen, China) &emsp; _Jun. 2024 - Sept. 2024_  
 - Advisor: Dr. Bidan Huang  
 - Topic: Dexterous manipulation and Reinforcement learning
 
