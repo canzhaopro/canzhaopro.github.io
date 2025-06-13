@@ -25,17 +25,18 @@ Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.ed
 
 # Education
 
-**Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) &emsp; _Sept. 2022 – Mar. 2028 (Expected)_ 
+**Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) &emsp; _Sept. 2022 – Jul. 2027 (Expected)_ 
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
+- Transferred from MS to PhD track in Sep. 2024 based on academic excellence
 - GPA: 3.87/4.0
 
-**B.Eng. in Engineering Mechanics**, Sichuan University (Sichuan, China) &emsp; _Sept. 2018 - Jul. 2022_
+**B.Eng. in Engineering Mechanics**, Sichuan University (Sichuan, China) &emsp; _Sept. 2018 - Jun. 2022_
 - GPA: 3.93/4.0, Ranking: 1/40
 
 ---
 
 # Research & Teaching Experience
-**Robotics X, Tencent (Shenzhen, China)** &emsp; _Jul. 2024 - Sept. 2024_  
+**Robotics X, Tencent (Shenzhen, China)** &emsp; _Jun. 2024 - Sept. 2024_  
 - Advisor: Dr. Bidan Huang  
 - Topic: Dexterous manipulation and Reinforcement learning
 
@@ -81,8 +82,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - Outstanding Student (Leader) at Sichuan University &emsp; _Nov. 2019/2020/2021_
 
 **Scholarship**
+- First Class Scholarship at Shanghai Jiao Tong University &emsp; _Nov. 2022/2023/2024_
 - China Optics Valley Scholarship (Optoelectronics Information Award) &emsp; _Nov. 2023_
-- First Class Scholarship at Shanghai Jiao Tong University &emsp; _Nov. 2022/2023_
 - Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation) &emsp; _Dec. 2021_
 - China National Scholarship (Top 0.2%), Cheung Kong Power Scholarship &emsp; _Dec. 2020_
 

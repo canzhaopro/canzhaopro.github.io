@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!-- 
+
 ## Tactile-Driven Dexterous In-Hand Writing via Extrinsic Contact Sensing
 
 - 06/2024 - 03/2025
@@ -20,7 +20,7 @@ redirect_from:
 </p>
 
 Dexterous in-hand manipulation involving interactions between grasped objects and external environments remains a significant challenge in robotics. This study addresses in-hand manipulation under extrinsic contact through a three-finger handwriting task. We propose a hybrid arm-hand coordination framework combining reinforcement learning with compliance control for enhanced flexibility and robustness. Using tactile sensors embedded in each finger, our model dynamically predicts in-hand object pose and external contact, eliminating fixed contact state assumptions. The framework is validated in simulation, demonstrating accurate contact sensing across diverse writing tasks, and successfully transferred to the real world via systematic calibration and domain randomization. Real-world experiments showcase adaptability to various writing tools and trajectories, advancing robotic manipulation in unstructured environments.
-[[Website](https://canzhopro.github.io/In_hand_Writing/)] -->
+[[Website](https://canzhopro.github.io/In_hand_Writing/)]
 
 
 ## iFEM2.0: Dense 3-D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors
