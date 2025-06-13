@@ -16,7 +16,7 @@ redirect_from:
 - Robotics X, Tencent / Manipulation Perception and Intelligence Lab, Shanghai Jiaotong University
 - Advisor: Dr. Bidan Huang / Dr. Daolin Ma
 <p align="center">
-<iframe width="360" height="640" src="../files/Inhandwriting.mp4" title="Inhandwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="640" height="360" src="../files/Inhandwriting.mp4" title="Inhandwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
 Dexterous in-hand manipulation involving interactions between grasped objects and external environments remains a significant challenge in robotics. This study addresses in-hand manipulation under extrinsic contact through a three-finger handwriting task. We propose a hybrid arm-hand coordination framework combining reinforcement learning with compliance control for enhanced flexibility and robustness. Using tactile sensors embedded in each finger, our model dynamically predicts in-hand object pose and external contact, eliminating fixed contact state assumptions. The framework is validated in simulation, demonstrating accurate contact sensing across diverse writing tasks, and successfully transferred to the real world via systematic calibration and domain randomization. Real-world experiments showcase adaptability to various writing tools and trajectories, advancing robotic manipulation in unstructured environments.
@@ -32,8 +32,8 @@ Dexterous in-hand manipulation involving interactions between grasped objects an
 
 <p align="center">
 <iframe width="640" height="240" src="../files/iFEM2_Force.mp4" title="iFEM2_Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-</p>
-<p align="center">
+<!-- </p>
+<p align="center"> -->
 <iframe width="660" height="357.5" src="../files/iFEM2_Force2.mp4" title="iFEM2_Force2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 

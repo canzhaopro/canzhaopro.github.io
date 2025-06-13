@@ -25,7 +25,7 @@ Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.ed
 
 # Education
 
-**Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) &emsp; _Sept. 2022 – Jul. 2027 (Expected)_ 
+**Ph.D. Student in Mechanics**, Shanghai Jiao Tong University (Shanghai, China) &emsp; _Sept. 2022 – Jun. 2027 (Expected)_ 
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
 - Transferred from MS to PhD track in Sep. 2024 based on academic excellence
 - GPA: 3.87/4.0
