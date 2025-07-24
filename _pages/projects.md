@@ -12,8 +12,7 @@ redirect_from:
 ## Tactile-Driven Dexterous In-Hand Writing via Extrinsic Contact Sensing
 
 - 06/2024 - 03/2025
-<!-- - Publication: R-AL 2025 -->
-- Submitted to R-AL 2025
+- Publication: IEEE R-AL 2025
 - Robotics X, Tencent / MPI Lab, Shanghai Jiaotong University
 - Advisor: Dr. Bidan Huang / Dr. Daolin Ma
 <p align="center">
@@ -22,7 +21,7 @@ redirect_from:
 
 Dexterous in-hand manipulation involving interactions between grasped objects and external environments remains a significant challenge in robotics. This study addresses in-hand manipulation under extrinsic contact through a three-finger handwriting task. We propose a hybrid arm-hand coordination framework combining reinforcement learning with compliance control for enhanced flexibility and robustness. Using tactile sensors embedded in each finger, our model dynamically predicts in-hand object pose and external contact, eliminating fixed contact state assumptions. The framework is validated in simulation, demonstrating accurate contact sensing across diverse writing tasks, and successfully transferred to the real world via systematic calibration and domain randomization. Real-world experiments showcase adaptability to various writing tools and trajectories, advancing robotic manipulation in unstructured environments.
 
-[[Website](https://canzhopro.github.io/In_hand_Writing/)]
+[[Website](https://canzhopro.github.io/In_hand_Writing/)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/11079957)]
 
 
 ## iFEM2.0: Dense 3-D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors
