@@ -71,9 +71,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ---
 
-# Award
+# Awards and Honors
 
 **Honor**
+- China Association for Science and Technology, Youth Talent Support Program for PhD students (中国科协青年科技人才培育工程博士生专项计划)  &emsp; _Dec. 2025_
 - China “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%) &emsp; _Nov. 2023_
 - Outstanding Graduate in Sichuan Province (Top 3%) &emsp; _Mar. 2022_
 - China National Undergraduate Mechanics Competition (Third Prize) &emsp; _Aug. 2021_
