@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is **Can Zhao (Vivian, 赵灿)**.
+Here is **Can Zhao (Claire, 赵灿)**.
 I am now pursuing the Ph.D degree in Shanghai Jiaotong University where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
 
 **Research Interest**: My current research focuses on tactile perception and force sensing with their applications to robotic dexterous manipulation of various objects. In addition, I’m interested in the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply.
