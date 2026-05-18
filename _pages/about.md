@@ -52,7 +52,11 @@ Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.ed
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=7OW5zX8AAAAJ&hl=en">my Google Scholar profile</a>.</u>.
 
 **Journal Papers**
-1. **C. Zhao**, L. Xie, B. Huang\*, S. Wang, and D. Ma, "Tactile-Driven Dexterous In-Hand Writing via Extrinsic Contact Sensing," IEEE Robotics and Automation Letters(**RA-L**), 2025. [[Website](https://inhandwriting.github.io/)] [[Paper](doi: 10.1109/LRA.2025.3589168)]
+1. J. Liu, W. Wang, H. Yu, **C. Zhao**, H. Zhao, D. Ma\*, W. Wang\*, "HIVE-6D: Hierarchical Visual-Tactile In-Hand Pose Estimation and Tracking," IEEE Robotics and Automation Letters (**RA-L**), 2026.
+
+1. **C. Zhao**, L. Xie, B. Huang\*, S. Wang, and D. Ma, "Tactile-Driven Dexterous In-Hand Writing via Extrinsic Contact Sensing," IEEE Robotics and Automation Letters (**RA-L**), 2025. [[Website](https://inhandwriting.github.io/)] [[Paper](doi: 10.1109/LRA.2025.3589168)]
+
+1. H. Zhang, Q. Wang, A. Song, J. Lai, D. Ma, **C. Zhao**, G. Gao, Q. Li\*, J. Zhang, "TACSEM: Tactile Sensing, 3-D State Estimation and In-Hand Manipulation of a Soft Hand," IEEE/ASME Transactions on Mechatronics (**T-Mech**), 2025. [[Paper](doi: 10.1109/TMECH.2025.3632966)]
 
 1. **C. Zhao**, J. Liu and D. Ma\*, "iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-based Tactile Sensors," IEEE Transactions on Robotics (**T-RO**), 2025. [[Paper](doi: 10.1109/TRO.2024.3502197)]
 
@@ -60,7 +64,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!-- - **C. Zhao**, J. Ren, C. Sun, J. Liu, H. Yu and D. Ma\*, "In-situ Mechanical Calibration of Sensing Elastomers for Vision-based Tactile Sensors," submitted to IEEE Transactions on Haptics (**ToH**), currently under review. -->
 
 **Conference Papers**
-1. **C. Zhao**, J. Ren, H. Yu and D. Ma, "In-situ Mechanical Calibration for Vision-based Tactile Sensors," 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [[Paper](doi: 10.1109/ICRA48891.2023.10161153)]
+1. Z. Zhang, J. Ma, X. Yang, X. Wen, Y. Zhang, B. Li, Y. Qin, J. Liu, **C. Zhao**, L. Kang, H. Hong, Z. Yin, P. Torr, H. Su, R. Zhang, Daolin Ma\*, "TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance" Robotics: Science and Systems (**RSS**), 2026.  [[Website](https://martelzhang.github.io/touchguide/)] [[Paper](https://arxiv.org/abs/2601.20239)]
+
+1. **C. Zhao**, J. Ren, H. Yu and D. Ma, "In-situ Mechanical Calibration for Vision-based Tactile Sensors," IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [[Paper](doi: 10.1109/ICRA48891.2023.10161153)]
 
 **Patents**
 1. 马道林, **赵灿**. 基于压痕的视触觉传感器力学参数原位标定方法. 申请号：2022113978708, 申请日：2022.11.09. 授权公告号：CN115711701B, 授权公告日：2024.07.02.
