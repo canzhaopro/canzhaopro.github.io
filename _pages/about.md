@@ -39,6 +39,9 @@ Email: [can.zh@foxmail.com](can.zh@foxmail.com) (recommended); [can.zhxx@sjtu.ed
 <!-- **X Square Robot** (Shenzhen, China) &emsp; _Mar. 2026 - Now_  
 - Topic: Egocentric Tactile Data & Multimodal Learning -->
 
+**Xense Robotics** (Shanghai, China) &emsp; _Mar. 2025 - Sept. 2025_  
+- Topic: Tactile Application Deployment for Robotics
+
 **Robotics X, Tencent** (Shenzhen, China) &emsp; _Jun. 2024 - Sept. 2024_  
 - Advisor: Dr. Bidan Huang  
 - Topic: Dexterous manipulation and Reinforcement learning
