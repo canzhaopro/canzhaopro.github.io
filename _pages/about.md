@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Here is **Can Zhao (Claire, 赵灿)**.
-I am now pursuing the Ph.D degree in Shanghai Jiaotong University where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
+I am now pursuing the Ph.D degree in Shanghai Jiaotong University where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). 
 
 **Research Interest**: My current research focuses on tactile perception and force sensing for contact-rich robotic manipulation. I aim to develop full-stack tactile systems that integrate sensor hardware, physical modeling, tactile data acquisition, multimodal representation learning, and closed-loop control, enabling robots to interact with diverse objects and complex environments in a more robust, practical, and adaptive manner.
 - Visuo-Tactile Perception & Force Sensing
